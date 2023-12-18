@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2.5 1.5" height="300" width="500">
+ <defs>
+  <clipPath id="a">
+   <rect height="3" width="5"/>
+  </clipPath>
+ </defs>
+ <rect width="2.5" height="1.5" fill="#adadad"/>
+ <path d="m0 0l2.5 1.5m-2.5 0l2.5-1.5" fill="none" stroke="#282828" stroke-width=".3"/>
+</svg>
